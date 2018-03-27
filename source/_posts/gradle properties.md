@@ -5,6 +5,16 @@ categories:
     - "ANDROID"
 ---
 
+Android studio gradle更新同步一直报错
+
+
+
+```
+Error:Unable to resolve dependency for ':app@debug/compileClasspath': Could not https://dl.google.com/dl/android/maven2/com/android/tools/build/gradle/3.2.0-alpha07/gradle-3.2.0-alpha07.pom 
+
+Received status code 400 from server: Bad Request
+```
+
 浏览器访问下载没有问题，但是Android studio下载一直失败。
 
 ```
